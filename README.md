@@ -31,7 +31,7 @@ adyour.link is an internet experiment aimed at creating a unique space for link 
 
 2. Install dependencies:
 
-  npm install
+     npm install
 
 3. Running the Project
 

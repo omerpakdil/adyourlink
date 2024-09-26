@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/715631f3-4b98-490a-83df-173284edad88)# adyour.link
+# adyour.link
 
 ## What is adyour.link?
 

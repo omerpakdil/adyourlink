@@ -1,4 +1,4 @@
-# adyour.link
+![image](https://github.com/user-attachments/assets/715631f3-4b98-490a-83df-173284edad88)# adyour.link
 
 ## What is adyour.link?
 
@@ -12,6 +12,14 @@ adyour.link is an internet experiment aimed at creating a unique space for link 
 - **Purchase Cells**: Easily purchase available cells through a user-friendly interface.
 - **Random Link Showcase**: A "Give Me a Link" button that highlights purchased cells randomly for a brief moment.
 - **Information Section**: A section explaining the purpose of the project.
+
+
+## App Pictures
+
+![image](https://github.com/user-attachments/assets/2e5e6b45-2f3a-4b13-8ff3-e695f888489f)
+![image](https://github.com/user-attachments/assets/c2e737a2-e22c-4e92-a230-94f0f29b0f4c)
+![image](https://github.com/user-attachments/assets/7e6b7240-79a9-43f4-bb4d-57b8b965e2d5)
+
 
 ## Getting Started
 

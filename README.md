@@ -27,6 +27,6 @@ adyour.link is an internet experiment aimed at creating a unique space for link 
 
    ```bash
    git clone <repository-url>
-   cd adyour.link
+   cd adyourlink
    npm install
    npm start

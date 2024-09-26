@@ -23,17 +23,14 @@ adyour.link is an internet experiment aimed at creating a unique space for link 
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository and Install dependencies:
 
    ```bash
    git clone <repository-url>
    cd adyour.link
+   npm install
 
-2. Install dependencies:
-
-    npm install
-
-4. Running the Project
+2. Running the Project
 
   a. Start the development server:
 
